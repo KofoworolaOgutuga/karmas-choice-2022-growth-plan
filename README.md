@@ -193,28 +193,3 @@ presentation/
 ```
 
 The original dataset was provided as part of an academic assignment.
-
----
-
-## Academic Project
-
-This project was completed as part of the **Honours Bachelor of Business Administration – Business Analytics** program at **George Brown Polytechnic**.
-
-The project was developed for academic purposes and demonstrates the application of business analytics concepts to a simulated specialty-retail business scenario.
-
----
-
-## Author
-
-**Kofoworla Ogutuga**
-
-Business Analytics Student
-George Brown Polytechnic
-
----
-
-## Disclaimer
-
-Karma's Choice is a simulated business case used for academic purposes.
-
-The data and analysis presented in this repository were provided or developed as part of an academic assignment. The project should not be interpreted as representing the actual performance or business strategy of a real company.
