@@ -62,11 +62,3 @@ The analysis was performed in Microsoft Excel using:
 * Summary analysis
 
 No original raw data values should be modified when reproducing the analysis.
-
----
-
-## Data Privacy
-
-The dataset included with this academic project should only be shared if its distribution is permitted under the course assignment and dataset terms.
-
-If the original course dataset is not permitted to be publicly redistributed, keep `Data.xlsx` out of the public GitHub repository and include only the analysis documentation and presentation.
